@@ -1,4 +1,4 @@
-4import java.util.Scanner;
+import java.util.Scanner;
 
 /**
  * Clase de prueba: usa el TDA a través de la INTERFAZ (ListaCircularTDA),
